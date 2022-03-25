@@ -1,0 +1,22 @@
+.table_body,td,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.table_body{
+    padding: 0;
+    margin: auto;
+    border-collapse: collapse;
+    width: 90%;
+    height: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    border: 1px solid #3346FF;
+}
+.head_class{
+    text-align: center;
+    font-size: 25px;
+}
+.bodyemp{
+    text-align: center;
+    font-size:40px;
+}
